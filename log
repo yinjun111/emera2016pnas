@@ -1,0 +1,6 @@
+echo "# emera2016pnas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:yinjun111/emera2016pnas.git
+git push -u origin master
