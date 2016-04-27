@@ -8,10 +8,7 @@ MamCortex_simplecodes_step3.sh
 #Workflow for permutation test, including shuffling, intersection and counting
 
 MamCortex_simplecodes_step4.sh
-#Workflow for Figure 5, repeats and conservation
+#Workflow for Figure 4, repeats and conservation
 
 MamCortex_simplecodes_step5.sh
-#Workflow for Figure 6, conservation
-
-
-
+#Workflow for Figure 5&6, conservation
